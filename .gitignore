@@ -1,0 +1,26 @@
+# =========================
+# Java / NetBeans (Ant project)
+# =========================
+*.class
+build/
+dist/
+nbproject/private/
+nbbuild/
+nbdist/
+out/
+
+# =========================
+# IDE
+# =========================
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# =========================
+# OS files
+# =========================
+Thumbs.db
+.DS_Store
